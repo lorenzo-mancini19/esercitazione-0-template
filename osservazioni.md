@@ -1,5 +1,5 @@
 # Osservazioni — Esercitazione 0
-
+frase
 Gruppo:
 
 Componenti (nome, cognome e username GitHub di entrambi):
